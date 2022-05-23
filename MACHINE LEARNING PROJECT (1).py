@@ -8,7 +8,7 @@
 # pip install DataReader for getting the data from yahoo finance
 # pip install yfinance for access the data from yahoo stock market
 # pip install keras
-# pip install tensorflow
+pip install tensorflow
 
 
 # In[1]:
